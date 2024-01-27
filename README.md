@@ -41,5 +41,5 @@ python mRNA_Design.py [--fasta <path>] [--output_dir <path>] [--beam_size <int>]
 To run the program with a specific set of parameters, you can use a command similar to the following:
 
 ```
-python mRNA_Design.py --fasta example.fasta --output_dir ./outputs --beam_size 200 --lr 0.03 --epsilon 0.5 --num_iters 30 --num_runs 20 --num_threads 8
+python mRNA_Design.py --fasta examples.fasta --output_dir ./outputs --beam_size 200 --lr 0.03 --epsilon 0.5 --num_iters 30 --num_runs 20 --num_threads 8
 ```
