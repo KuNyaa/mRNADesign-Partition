@@ -44,10 +44,6 @@ To run the program with a specific set of parameters, you can use a command simi
 python mRNA_Design.py --fasta examples.fasta --output_dir ./outputs --beam_size 200 --lr 0.03 --epsilon 0.5 --num_iters 30 --num_runs 20 --num_threads 8
 ```
 
-Certainly! Here's an added section for "Other Files" to include in your README:
-
----
-
 ## Other Files
 
 Alongside the main application, this repository includes additional files that are useful for testing and understanding the capabilities of the mRNA Design tool:
