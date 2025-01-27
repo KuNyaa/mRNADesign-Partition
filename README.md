@@ -1,5 +1,5 @@
-# Messenger RNA Design via Expected Partition Function and Continuous Optimization
-This repository  hosts the source code for the research paper titled "Messenger RNA Design via Expected Partition Function and Continuous Optimization." 
+# Messenger RNA Design for Ensemble Free Energy via Probabilistic Lattice Parsing
+This repository  hosts the source code for the research paper titled "Messenger RNA Design for Ensemble Free Energy via Probabilistic Lattice Parsing." 
 
 
 ## Dependencies
